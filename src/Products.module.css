@@ -30,7 +30,7 @@ a {
 .contentContainer {
   flex: 1;
   height: 100vh;
-  padding: 10vh 5vh;
+  padding: 5vh 5vh;
 }
 
 .imageContainer {
@@ -149,6 +149,10 @@ a {
 }
 
 .item {
+}
+
+.itemHeader {
+  cursor: pointer;
 }
 
 .itemImage {
